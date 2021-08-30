@@ -1,0 +1,19 @@
+{
+  "olx" : {
+    "host" : "https://www.olx.ro/api",
+    "clientId" : "id",
+    "clientSecret" : "clientSecret"
+  },
+  "contact" : {
+    "name" : "testname",
+    "phone" : "testphone"
+  },
+  "location" : {
+    "city_id": 1,
+    "latitude": 44.43783,
+    "longitude": 26.09464
+  },
+  "adviserType" : "private,",
+  "webshopUrl" : "http://localhost",
+  "webShopProductUrl" : "product"
+}
